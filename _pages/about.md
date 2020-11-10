@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the Department of Computer Science and Engineering at Michigan State University, USA. My primary research interests lie in the domains of Speaker Recognition, Deep Learning, and Speech Synthesis. I have experience in modeling voice production and voice perception process in humans and its application for developing robust automatic speaker recognition systems. 
+Hi! I am Anurag, a Ph.D. Candidate in the Department of Computer Science and Engineering at Michigan State University, USA. I develop deep learning models to characterize the acoustic properties of human speech efficiently. Specifically, I develop models that can characterize speaker-dependent speech features from human speech audio recorded in non-ideal audio conditions, such as background noise, channel distortions, and varying speaking styles (such as speaking vs. singing). Current applications of my research include speaker recognition, vocal style transfer, and text to speech synthesis. I am also working on integrating my speaker recognition models with the current state of the art face recognition systems to improve biometric recognition performance in challenging application scenarios, such as adverse illumination conditions.
 
-A data-driven personal website
+
+Academic Background
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am currently pursuing my Ph.D. in Computer Science at Michigan State University, USA. Prior to this, I did my Masters in Technology (M.Tech.) in Computer Science from Indraprastha Institute of Information Technology Delhi (IIIT-Delhi), India, where I was awarded the best Master's Thesis award for my work on 'RGB-D face recognition in surveillance videos.' I received my Bachelor's in Engineering (B.E.) in Instrumentation and Control Engineering from Netaji Subhas Institute of Technology, University of Delhi, India.
