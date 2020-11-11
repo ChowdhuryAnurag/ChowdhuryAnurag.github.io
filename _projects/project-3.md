@@ -1,5 +1,5 @@
 ---
 title: "[Fusing Face and Voice Modalities for Improved Biometric Recognition](http://iprobe.cse.msu.edu/project_detail.php?id=12&?title=Fusing_Face_and_Voice_Modalities_for_Improved_Biometric_Recognition)"
-excerpt: "In this project, we are developing algorithms for improving biometric recognition in videos by fusing face and voice modalities.<br/><img src='/images/Project3_gphx.png'>"
+excerpt: "Indoor video surveillance systems often use the face modality to establish the identity of a person of interest. However, the face image may not offer sufficient discriminatory information in many scenarios due to substantial variations in pose, illumination, expression, resolution and distance between the subject and the camera. In such cases, the inclusion of an additional biometric modality can benefit the recognition process. In this regard, we consider the fusion of voice and face modalities for enhancing the recognition accuracy. We use current state-of-art deep learning based methods to perform face and speaker recognition dataset for establishing baseline performance of individual modalities. We explore multiple fusion schemes, at data, feature, score, and decision levels, to combine face and speaker modalities to perform effective biometric recognition in video data.<br/><img src='/images/Project3_gphx.png'>"
 collection: portfolio
 ---
