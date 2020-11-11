@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Anurag Chowdhury - About me"
 excerpt: "Anurag Chowdhury - About me"
 author_profile: true
 redirect_from: 
