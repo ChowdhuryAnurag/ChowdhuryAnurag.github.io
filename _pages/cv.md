@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+
+PDF version of the CV can be accessed [here](https://chowdhuryanurag.github.io/files/CV.pdf)
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

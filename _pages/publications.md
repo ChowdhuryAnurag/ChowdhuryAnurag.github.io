@@ -43,14 +43,13 @@ MSU-AVIS dataset: Fusing face and voice modalities for biometric recognition in 
 [*International Conference on Pattern Recognition (ICPR)*](https://ieeexplore.ieee.org/abstract/document/8545260).
 
 
-- Chhokra, P., Chowdhury, A., Goswami, G., Vatsa, M. and Singh, R. (2018) <br>
+- Chhokra, P., Chowdhury, A., Goswami, G., Vatsa, M. and Singh, R. (2017) <br>
 Unconstrained Kinect video face database. <br>
 [*Information Fusion*](https://www.sciencedirect.com/science/article/abs/pii/S1566253517302476).
 
 - Chowdhury, A. and Ross, A. (2017) <br>
 Extracting sub-glottal and Supra-glottal features from MFCC using convolutional neural networks for speaker identification in degraded audio signals. <br>
 [*IEEE International Joint Conference on Biometrics (IJCB)*](https://ieeexplore.ieee.org/abstract/document/8272748).
-
 
 - Chowdhury, A. and Vatsa, M.. (2016) <br>
 RGB-D face recognition in surveillance videos. <br>
