@@ -4,11 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
 -	Chowdhury, A., Cozzo, A., Ross, A. (2020) <br>
 JukeBox: A Multilingual Singer Recognition Dataset. <br>
 [*INTERSPEECH*](https://www.isca-speech.org/archive/Interspeech_2020/pdfs/2972.pdf).
