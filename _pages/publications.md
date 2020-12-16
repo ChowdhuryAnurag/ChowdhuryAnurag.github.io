@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
--	Chowdhury, A., Ross, A., David, P. (2020)
-DeepTalk: Vocal Style Encoding for Speaker Recognition and Speech Synthesis
+-	Chowdhury, A., Ross, A., David, P. (2020) <br>
+DeepTalk: Vocal Style Encoding for Speaker Recognition and Speech Synthesis. <br>
 Preprint at [arXiv:2012.05084](https://arxiv.org/abs/2012.05084).
 
 -	Chowdhury, A., Cozzo, A., Ross, A. (2020) <br>
